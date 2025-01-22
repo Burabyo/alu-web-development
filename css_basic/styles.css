@@ -3,6 +3,7 @@ body{
   display:flex;
   flex-direction: column;
   flex:auto;
+  background-color: gray;
 }
 main{
   display: flex;
@@ -20,4 +21,9 @@ aside{
   flex-direction: row;
   flex:1;
   overflow-y: auto;
+  background-color: black;
+  
+}
+header{
+  background-color: blanchedalmond;
 }
