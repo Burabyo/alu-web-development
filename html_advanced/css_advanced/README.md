@@ -1,0 +1,1 @@
+after creating the whole HTML of our webpage from Figme, we are going to style it using css so as to put it in meaning full order and add relevant colors and fonts.
