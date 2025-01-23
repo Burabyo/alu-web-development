@@ -1,0 +1,2 @@
+In this project we are going to create a web page from scratch using a figma designer file and trying to do it step by step starting with html only then css and after java script a we go on and on. Below is the picture of the page that we are going to try and imitate.
+![alt text](image.png)
