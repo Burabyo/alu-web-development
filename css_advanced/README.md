@@ -1,0 +1,1 @@
+after formating the whole HTML of the webpage from figma, we are going to use css and styling to give it more of the order,colors and fonts and make it more interesting.
