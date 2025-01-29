@@ -1,0 +1,103 @@
+/*whole{
+  background-image:url(background.png);
+}*/
+.header{
+  display: flex;
+  flex-direction: column;
+  flex:auto;
+  justify-content: space-between;
+  background-image:url(background.png) ;
+  background-size:cover;
+  background-position: center;
+  width:screen;
+}
+.top{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  margin: 50px;
+  font-size: 12px;
+}
+
+.menu{
+  display: flex;
+  gap: 20px;
+font-size: smaller;
+justify-content: end;
+}
+.menu a{
+ color: white; 
+ text-decoration: none;
+ font-weight: bold;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  overflow-y: auto;
+}
+.far{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow-y: auto;
+  text-align: center;
+  height: 40vh;
+}
+.far h1{
+  color: white;
+  font-size: 60px;
+  margin: 5px;
+}
+
+.par1{
+  color: white;
+  word-spacing: 60px;
+  font-size: x-small;
+}
+.par2{
+ color: white;
+  background-color: rgb(191, 127, 251);
+  border-radius: 40px;
+  font-size: xx-small;
+  padding: 10px 30px;
+  border-color: rgb(191, 127, 251);;
+
+}
+.learn{
+  text-align: center;
+  margin-bottom: 80px;
+  color: white;
+}
+.learn1{
+  color: #C271FF;
+  font-weight:bold;
+}
+
+.images{
+  display: flex;
+  gap: 80px;
+  margin: 0.5px;
+  text-align: center;
+  justify-content: center;
+}
+.disp{
+  justify-content: center;
+}
+.under{
+  background-color: #C271FF;
+display: flex;
+align-items: center;
+width: 100%;
+height: 200px;
+
+}
+.under1{
+display: flex;
+flex-direction: column;
+gap: 0.1px;
+text-align: justify;
+
+}
