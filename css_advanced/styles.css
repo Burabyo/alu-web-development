@@ -92,12 +92,36 @@ display: flex;
 align-items: center;
 width: 100%;
 height: 200px;
-
+gap: 20px;
 }
 .under1{
 display: flex;
 flex-direction: column;
 gap: 0.1px;
 text-align: justify;
+}
+
+.popu{
+text-align: center;
+margin: 60px;
+}
+
+.Free{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #071629;
+  width: ;
+}
+.button{
+  color: white;
+  background-color: rgb(191, 127, 251);
+  border-radius: 40px;
+  font-size: xx-small;
+  padding: 10px 5px;
+  border-color: rgb(191, 127, 251);
+  margin-right: auto;
+  margin-left: auto;
+
 
 }
